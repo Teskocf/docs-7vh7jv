@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://notes-ljk5jd.salamcuanwin.xyz/sitemap.xml
